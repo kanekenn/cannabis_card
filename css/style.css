@@ -129,10 +129,13 @@ nav {
 }
 
 #lightgreenbar {
-	width: 768px;
+	width: 100%;
 	height: 20px;
 	background-color: #8DC63F;
-	margin: 0 auto;
+}
+
+#subjectsbox p {
+ 	text-align: left;
 }
 
 #subjectsbox br {
@@ -143,9 +146,9 @@ nav {
 footer {
 	line-height: 25px;
 	text-align: center;
-	padding: 20px 0 20px 0;
-	margin: 0 auto;
-	width: 768px;
+	padding: 20px;
+	margin-top: 0;
+	width: 100%;
 	background-color: #39B54A;
 }
 
@@ -210,7 +213,7 @@ nav {
 #boxes .box {
 	display: block;
 	margin: auto;
-	width: 250px;
+	width: 150px;
 }
 
 header a {
