@@ -135,10 +135,6 @@ nav {
 	margin: 0 auto;
 }
 
-#subjectsbox p {
-	text-align: left;
-}
-
 #subjectsbox br {
   margin: 1.25em 0;/* FF for instance */
   line-height:2.5em;/* chrome for instance */
